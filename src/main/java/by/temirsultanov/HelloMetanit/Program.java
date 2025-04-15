@@ -1,4 +1,4 @@
-package by.temirsultanov;
+package by.temirsultanov.HelloMetanit;
 
 public class Program {
     public static void main(String[] args) {
